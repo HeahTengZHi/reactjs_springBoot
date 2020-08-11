@@ -8,12 +8,20 @@ import Footer from './components/Footer';
 import Book from './components/Book';
 import BookList from './components/BookList';
 
-//Need to Install
+//Install Router
 //npm i --save react-router-dom {For Router}
-//npm install react-bootstrap bootstrap
 
+//Install Boostrap
+//npm install react-bootstrap bootstrap
 //Add link
 //Add into index.html: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"/>
+
+//Install font awesome
+// npm i --save @fortawesome/fontawesome-svg-core
+// npm install --save @fortawesome/free-solid-svg-icons
+// npm install --save @fortawesome/react-fontawesome
+
+
 
 function App() {
   const marginTop = {
