@@ -7,7 +7,7 @@ public class BookApplication {
 	
 	
 	public static void main(String[] args) {
-		SpringApplication.run(BookApplication.class, args);dsadsad
+		SpringApplication.run(BookApplication.class, args);
 	}
 	
 }
